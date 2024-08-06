@@ -7,3 +7,4 @@ countries_df = pd.DataFrame({
 })
 
 countries_df.to_csv('data/countries.csv', index=False, sep=';')
+
